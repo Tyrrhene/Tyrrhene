@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyrrhene
 - 👀 I’m interested in programming and developing
-- 🌱 I’m currently learning on expanding knowledge in my stack
+- 🌱 I’m currently learning and expanding knowledge in my stack
 - 💞️ I’m looking to collaborate on cool projects and with cool companies
 - 📫 How to reach me: My email matthew.ian.hammond@gmail.com
 - 😄 Pronouns: he/him

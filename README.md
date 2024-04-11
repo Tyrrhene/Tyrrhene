@@ -5,7 +5,7 @@
 - 📫 How to reach me: My email matthew.ian.hammond@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to dance Argentinan Tango
-- ⚡⚡ Fun fact part deux: Tyrrhene is the Mediterranean third-largest marginal sea, located along the western coast of mainland Italy
+- ⚡⚡ Fun fact part deux: Tyrrhene is the Mediterraneans third-largest marginal sea, located along the western coast of mainland Italy
 
 <!---
 Tyrrhene/Tyrrhene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
